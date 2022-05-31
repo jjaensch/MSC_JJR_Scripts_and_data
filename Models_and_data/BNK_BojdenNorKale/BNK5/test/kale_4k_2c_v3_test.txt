@@ -1,0 +1,3 @@
+data/obj/kale_4k/kale_4k_2c_v3/test/BN_20m_4k_1_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/test/BN_20m_4k_2_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/test/BN_20m_4k_5_1.jpg

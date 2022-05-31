@@ -1,0 +1,8 @@
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_3_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_4_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_6_0.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_6_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_8_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_9_0.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_9_1.jpg
+data/obj/kale_4k/kale_4k_2c_v3/train/BN_20m_4k_10_0.jpg
